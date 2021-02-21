@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Rosmianto Project Mancave
 description: My mancave to showcase my projects
+plugins:
+- jekyll-menus
