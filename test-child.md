@@ -1,7 +1,7 @@
 ---
-title: Child of Test
-parent: Test
-has_children: true
+title: Project #1
+parent: Projects
+has_children: false
 nav_order: 1
 ---
 
