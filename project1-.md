@@ -1,8 +1,7 @@
 ---
-title: Project #1
+title: Project \#1
 parent: Projects
-has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Child of test

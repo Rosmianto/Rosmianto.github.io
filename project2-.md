@@ -1,7 +1,6 @@
 ---
-title: Project #2
+title: Project \#2
 parent: Projects
-grand_parent: Test
 nav_order: 1
 ---
 

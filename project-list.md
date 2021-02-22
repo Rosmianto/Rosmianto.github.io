@@ -6,6 +6,6 @@ nav_order: 2
 
 # Projects
 
-This lists all my projects, some done, some just being a WIP (Work In Progress), perhaps indefinitely. Anyway, this page serves as a portfolio, so you can read my way of thinking, how I approach problems, and how I actually solve them.
+This lists all of my projects, some done, some just being a WIP (Work In Progress), perhaps indefinitely.
 
-:love:
+Anyway, this page serves as a portfolio, so you can read my way of thinking, how I approach problems, and how I actually solve them.
