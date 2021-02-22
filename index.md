@@ -1,6 +1,27 @@
 ## Welcome to GitHub Pages
 
-[Click me](http://www.google.com){: .btn}
+## Basic button styles
+
+### Links that look like buttons
+
+<div class="code-example" markdown="1">
+[Link button](http://example.com/){: .btn }
+
+[Link button](http://example.com/){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
+
+[Link button](http://example.com/){: .btn .btn-outline }
+</div>
+```markdown
+[Link button](http://example.com/){: .btn }
+
+[Link button](http://example.com/){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
+
+[Link button](http://example.com/){: .btn .btn-outline }
+```
 
 You can use the [editor on GitHub](https://github.com/Rosmianto/Rosmianto.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
