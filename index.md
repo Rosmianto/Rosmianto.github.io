@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+
+# Buttons
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Basic button styles
 
@@ -23,38 +39,59 @@
 [Link button](http://example.com/){: .btn .btn-outline }
 ```
 
-You can use the [editor on GitHub](https://github.com/Rosmianto/Rosmianto.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Button element
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<div class="code-example">
+<button type="button" name="button" class="btn">Button element</button>
+</div>
+```html
+<button type="button" name="button" class="btn">Button element</button>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## Using utilities with buttons
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rosmianto/Rosmianto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Button size
 
-### Support or Contact
+Wrap the button in a container that uses the [font-size utility classes]({{ site.baseurl }}{% link docs/utilities/typography.md %}) to scale buttons:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="code-example" markdown="1">
+<span class="fs-6">
+[Big ass button](http://example.com/){: .btn }
+</span>
+
+<span class="fs-3">
+[Tiny ass button](http://example.com/){: .btn }
+</span>
+</div>
+```markdown
+<span class="fs-8">
+[Link button](http://example.com/){: .btn }
+</span>
+
+<span class="fs-3">
+[Tiny ass button](http://example.com/){: .btn }
+</span>
+```
+
+### Spacing between buttons
+
+Use the [margin utility classes]({{ site.baseurl }}{% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
+
+<div class="code-example" markdown="1">
+[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
+[Button ](http://example.com/){: .btn .btn-blue .mr-2 }
+
+[Button with more space](http://example.com/){: .btn .btn-green .mr-4 }
+[Button ](http://example.com/){: .btn .btn-blue }
+</div>
+```markdown
+[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
+[Button ](http://example.com/){: .btn .btn-blue }
+
+[Button with more space](http://example.com/){: .btn .btn-green .mr-4 }
+[Button ](http://example.com/){: .btn .btn-blue }
+```
