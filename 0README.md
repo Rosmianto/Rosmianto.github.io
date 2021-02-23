@@ -1,3 +1,9 @@
+---
+title: About Me
+has_children: true
+nav_order: 0
+---
+
 ## I'm An Embedded Tinkerer
 
 It's like wizarding, but with no magic. Well, actually there is some sort of magic 
