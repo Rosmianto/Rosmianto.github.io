@@ -25,3 +25,9 @@ Gcov · Lcov
 
 ### Microcontrollers
 AVR family · ESP32 · ESP8266 · STM32 (F and L series)
+
+### Cloud Platform
+GCP · AWS
+
+### Interest in Embedded
+Ultra-Low Power · High Performance Computing · Wireless Communication 
