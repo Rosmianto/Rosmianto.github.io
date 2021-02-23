@@ -9,12 +9,25 @@ love low level programming, but I don't love web programming that much (I know a
 # Experience
 
 ## Language
-C {: .label }
-C++ {: .label }
-C# {: .label }
-Python {: .label }
-AutoHotkey {: .label }
-VHDL {: .label }
-Verilog {: .label }
+C
+{: .label }
+
+C++
+{: .label }
+
+C#
+{: .label }
+
+Python
+{: .label }
+
+AutoHotkey
+{: .label }
+
+VHDL
+{: .label }
+
+Verilog
+{: .label }
 
 🚀
