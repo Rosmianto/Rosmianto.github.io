@@ -4,7 +4,7 @@ parent: Blogs
 nav_order: 1
 ---
 
-There is no best coding standard. There is only consistent standard.
+There is no the best coding standard. There is only consistent standard.
 
 No need to start another war, this is my coding standard that I use when I code
 in C/C++. As long as the style is consistent, it's fine. Yours might be different.
