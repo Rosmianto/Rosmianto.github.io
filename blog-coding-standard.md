@@ -24,4 +24,4 @@ in C/C++. As long as the style is consistent, it's fine. Yours might be differen
 * separate_with_underscore for variable name in C
 * useCamelCase for variable name in C++
 * C++ class always begins with a Capital letter
-
+* Names like ```tmp```, ```temp``` are tolerable as long they are near where they will be used
