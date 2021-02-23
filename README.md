@@ -11,8 +11,14 @@ love low level programming, but I don't love web programming that much (I know a
 ### Language
 C · C++ · C# · Python · AutoHotkey · VHDL · Verilog
 
+### Version Control
+Git · SVN
+
+### Version Control Platform
+Github · Gitlab · BitBucket
+
 ### IDE
-vscode (my fav) · Sublime Text · Notepad++ · SciTE · nano
+vscode (my main) · Sublime Text · Notepad++ · SciTE · nano
 
 ### Unit Testing
 Catch2 · Google Test · CTest · FakeIt
@@ -30,4 +36,4 @@ AVR family · ESP32 · ESP8266 · STM32 (F and L series)
 GCP · AWS
 
 ### Interest in Embedded
-Ultra-Low Power · High Performance Computing · Wireless Communication 
+Ultra-Low Power · High Performance Computing · Wireless Communication · AI (not really into it)
