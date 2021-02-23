@@ -9,25 +9,19 @@ love low level programming, but I don't love web programming that much (I know a
 ## Experience
 
 ### Language
-C
-{: .label }
+C · C++ · C# · Python · AutoHotkey · VHDL · Verilog
 
-C++
-{: .label }
+### IDE
+vscode (my fav) · Sublime Text · Notepad++ · SciTE · nano
 
-C#
-{: .label }
+### Unit Testing
+Catch2 · Google Test · CTest · FakeIt
 
-Python
-{: .label }
+### Build Tools
+make · CMake
 
-AutoHotkey
-{: .label }
+### Code Coverage
+Gcov · Lcov
 
-VHDL
-{: .label }
-
-Verilog
-{: .label }
-
-🚀
+### Microcontrollers
+AVR family · ESP32 · ESP8266 · STM32 (F and L series)
